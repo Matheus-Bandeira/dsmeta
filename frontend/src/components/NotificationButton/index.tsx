@@ -1,5 +1,5 @@
 import icon from '../../assets/img/notification-icon.svg';
-import './styles.css' // mesma pasta é ponto. Pasta anterior é ponto ponto
+import './styles.css'; // mesma pasta é ponto. Pasta anterior é ponto ponto
 
 function NotificationButton() {
     return (
